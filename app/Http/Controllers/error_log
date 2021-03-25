@@ -1,0 +1,7 @@
+[18-Jul-2020 11:34:41 America/New_York] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/itnmfy/public_html/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2020 11:34:47 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/itnmfy/public_html/app/Http/Controllers/FrontendController.php on line 24
+[18-Jul-2020 11:34:57 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/itnmfy/public_html/app/Http/Controllers/NanoFormController.php on line 9
+[18-Jul-2020 11:35:00 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/itnmfy/public_html/app/Http/Controllers/blogController.php on line 8
+[18-Jul-2020 11:35:02 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/itnmfy/public_html/app/Http/Controllers/LoansProductController.php on line 8
+[18-Jul-2020 11:35:04 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/itnmfy/public_html/app/Http/Controllers/HomeController.php on line 7
+[18-Jul-2020 11:35:07 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/itnmfy/public_html/app/Http/Controllers/ExchangeFormController.php on line 9

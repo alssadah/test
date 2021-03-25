@@ -1,0 +1,1 @@
+[18-Jul-2020 11:35:29 America/New_York] PHP Fatal error:  Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/itnmfy/public_html/app/Http/Middleware/Authenticate.php on line 7

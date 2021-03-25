@@ -1,0 +1,52 @@
+[18-Jul-2020 10:15:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/database.php on line 18
+[18-Jul-2020 10:16:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/app.php on line 16
+[18-Jul-2020 10:16:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/database.php on line 18
+[18-Jul-2020 10:16:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/filesystems.php on line 16
+[18-Jul-2020 10:16:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/hashing.php on line 32
+[18-Jul-2020 10:16:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/database.php on line 18
+[18-Jul-2020 10:16:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/voyager-hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/voyager-hooks.php on line 5
+[18-Jul-2020 10:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/database.php on line 18
+[18-Jul-2020 10:16:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/logging.php on line 19
+[03-Sep-2020 15:09:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/database.php on line 18
+[03-Sep-2020 15:10:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/database.php on line 18
+[03-Sep-2020 15:10:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/database.php on line 18
+[03-Sep-2020 15:11:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/itnmfy/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/itnmfy/public_html/config/database.php on line 18
